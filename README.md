@@ -1,1 +1,1 @@
-# Vlsi-degital-design
+# Vlsi-digital-design
